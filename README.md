@@ -8,9 +8,13 @@ Sashimilicious Seafoods is an online platform where users can explore a wide ran
 **Features**
 
 Product Viewing: Browse through a variety of fresh seafood products available for purchase.
+
 Account Creation: Create a new account to access exclusive features and personalize your shopping experience.
+
 Cart Management: Add items to your cart and manage your cart contents before proceeding to checkout.
+
 Profile Updates: Update your account profile information, including contact details and shipping address.
+
 Order History: View a history of past orders and track their status.
 
 **Feedback**
